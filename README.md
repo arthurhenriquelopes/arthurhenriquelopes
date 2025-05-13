@@ -1,28 +1,37 @@
-# Hello, Friend!
+<p align="center">
+  <a href="https://tutujokes.github.io/SaudePlus" target="_blank">
+    <img src="https://img.shields.io/badge/Check_out_my_collab_project-SaudePlus-blueviolet?style=for-the-badge&logo=github" alt="SaudePlus Project"/>
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
 ```php
 <?php
 
 class Me 
-    {
-public $name   = "Arthur Henrique";
-public $age    = 22;
+{
+    public $project = "Check out my ongoing collab project: https://tutujokes.github.io/SaudePlus";
 
-public $skills = [
-    "Java Developer", 
-    "SQL Database Management", 
-    "Backend Developer"];
+    public $name   = "Arthur Henrique";
+    public $age    = 23;
 
-public $tech   = [
-    "Linux", "Git", "Docker", 
-    "Python", "C", "Java", 
-    "SQL", "PHP"];
+    public $skills = [
+        "Java Developer", 
+        "SQL Database Management", 
+        "Backend Developer"
+    ];
 
-public $extra  = [
-    "x86_64 Assembly", 
-    "BrainFuck"];
+    public $tools  = [
+        "Java", "C", "Linux", 
+        "Git & GitHub", "MySQL"
+    ];
 
-private $secret = "Nothing Here I Swear...";
+    public $interests = [
+        "Docker", "Spring Boot", "PHP"
+    ];
+
+    private $secret = "Nothing Here I Swear...";
 
     public function __construct() {}
 
@@ -33,11 +42,3 @@ private $secret = "Nothing Here I Swear...";
 
 $arthur = new Me();
 $arthur->sayHello();
-```
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-<div align="center">
-  <a href="http://www.github.com/tutujokes"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=tutujokes&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true"/></a>
-  <a href="http://www.github.com/tutujokes"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutujokes&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-</div>
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-<img src="https://github-profile-trophy.vercel.app/?username=tutujokes&theme=discord">
