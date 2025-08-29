@@ -4,6 +4,7 @@ Sou estudante de **Sistemas de Informação pelo Instituto Federal do Maranhão 
 
 
 
+
 # 🔧 Meu Stack  
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
@@ -27,6 +28,7 @@ Sou estudante de **Sistemas de Informação pelo Instituto Federal do Maranhão 
 
 
 
+
 # 📊 Estatísticas  
 
 <div align="center">
@@ -34,7 +36,8 @@ Sou estudante de **Sistemas de Informação pelo Instituto Federal do Maranhão 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutujokes&layout=compact&theme=tokyonight"/>
 </div>
 
----
+
+
 
 # 🌐 Onde me encontrar  
 
