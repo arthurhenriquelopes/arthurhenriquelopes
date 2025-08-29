@@ -1,44 +1,43 @@
-<p align="center">
-  <a href="https://tutujokes.github.io/SaudePlus" target="_blank">
-    <img src="https://img.shields.io/badge/Check_out_my_collab_project-SaudePlus-blueviolet?style=for-the-badge&logo=github" alt="SaudePlus Project"/>
-  </a>
-</p>
+# 👋 Olá, eu sou Arthur Henrique  
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+Sou estudante de **Sistemas de Informação pelo Instituto Federal do Maranhão (IFMA)**, apaixonado por desenvolvimento de sites e aplicações. Adoro criar ferramentas que conciliem com meus hobbies e facilitem meu dia a dia. Amante do novo e entusiasta de xadrez, também não dispenso um bom café para acompanhar meus projetos.  
 
-```php
-<?php
 
-class Me 
-{
-    public $project = "Check out my ongoing collab project: https://tutujokes.github.io/SaudePlus";
 
-    public $name   = "Arthur Henrique";
-    public $age    = 23;
+# 🔧 Meu Stack  
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring" title="Spring"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/testcontainers.png" alt="Testcontainers" title="Testcontainers"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+</div>
 
-    public $skills = [
-        "Java Developer", 
-        "SQL Database Management", 
-        "Backend Developer"
-    ];
 
-    public $tools  = [
-        "Java", "C", "Linux", 
-        "Git & GitHub", "MySQL"
-    ];
 
-    public $interests = [
-        "Docker", "Spring Boot", "PHP"
-    ];
+# 📊 Estatísticas  
 
-    private $secret = "Nothing Here I Swear...";
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tutujokes&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutujokes&layout=compact&theme=tokyonight"/>
+</div>
 
-    public function __construct() {}
+---
 
-    public function sayHello() {
-        echo "Welcome to my world.\n";
-    }
-}
+# 🌐 Onde me encontrar  
 
-$arthur = new Me();
-$arthur->sayHello();
+📫 Email: **arthurhenriquelopesf@gmail.com**  
+💼 LinkedIn: [Arthur Henrique Lopes](https://www.linkedin.com/in/arthur-henrique-lopes/)  
+🌐 Portfólio: [Meu site](https://tutujokes.github.io/arthur-portfolio/)
