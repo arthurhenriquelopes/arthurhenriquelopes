@@ -2,6 +2,7 @@
 
 Sou estudante de **Sistemas de Informação pelo Instituto Federal do Maranhão (IFMA)**, apaixonado por desenvolvimento de sites e aplicações. Adoro criar ferramentas que conciliem com meus hobbies e facilitem meu dia a dia. Amante do novo e entusiasta de xadrez, também não dispenso um bom café para acompanhar meus projetos.  
 
+Atualmente, estou desenvolvendo um site de apoio à decisão do usuário na escolha de uma distribuição Linux: **[DistroWiki](https://distrowiki.site)**.
 
 
 
