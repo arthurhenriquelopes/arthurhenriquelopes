@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Arthur Henrique  
 
-Sou estudante de **Sistemas de Informação pelo Instituto Federal do Maranhão (IFMA)**, apaixonado por desenvolvimento de sites e aplicações. Adoro criar ferramentas que conciliem com meus hobbies e facilitem meu dia a dia. Amante do novo e entusiasta de xadrez, também não dispenso um bom café para acompanhar meus projetos.  
+Sou estudante de **Sistemas de Informação pelo Instituto Federal do Maranhão (IFMA)**, apaixonado por desenvolvimento de sites e aplicações. Adoro criar ferramentas que conciliem com meus hobbies e facilitem meu dia a dia. Amante do novo e entusiasta de xadrez, também não dispenso um bom café para acompanhar meus projetos. Possuo forte ambição em desenvolver soluções para órgãos governamentais com minha stack.
 
-Atualmente, estou desenvolvendo um site de apoio à decisão do usuário na escolha de uma distribuição Linux: **[DistroWiki](https://distrowiki.site)**.
+Atualmente, estou desenvolvendo um site de apoio à decisão do usuário na escolha de uma distribuição Linux, nutrido dinamicamente por IA: **[DistroWiki](https://distrowiki.site)**.
 
 
 
@@ -33,8 +33,8 @@ Atualmente, estou desenvolvendo um site de apoio à decisão do usuário na esco
 # 📊 Estatísticas  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tutujokes&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutujokes&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurhenriquelopes&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhenriquelopes&layout=compact&theme=tokyonight"/>
 </div>
 
 
@@ -44,4 +44,4 @@ Atualmente, estou desenvolvendo um site de apoio à decisão do usuário na esco
 
 📫 Email: **arthurhenriquelopesf@gmail.com**  
 💼 LinkedIn: [Arthur Henrique Lopes](https://www.linkedin.com/in/arthur-henrique-lopes/)  
-🌐 Portfólio: [Meu site](https://tutujokes.github.io/arthur-portfolio/)
+🌐 Portfólio: [Meu site](https://arthurhenriquelopes.github.io/arthur-portfolio/)
