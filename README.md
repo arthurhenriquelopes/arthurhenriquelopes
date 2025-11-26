@@ -1,12 +1,29 @@
-# 👋 Olá, eu sou Arthur Henrique  
+<div align="center">
+
+# 👋 Olá, eu sou Arthur Henrique
+
+### Desenvolvedor Full-Stack | Estudante de Sistemas de Informação
+
+</div>
+
+<br>
+
+<div align="center">
 
 Sou estudante de **Sistemas de Informação pelo Instituto Federal do Maranhão (IFMA)**, apaixonado por desenvolvimento de sites e aplicações. Adoro criar ferramentas que conciliem com meus hobbies e facilitem meu dia a dia. Amante do novo e entusiasta de xadrez, também não dispenso um bom café para acompanhar meus projetos. Possuo forte ambição em desenvolver soluções para órgãos governamentais com minha stack.
 
 Atualmente, estou desenvolvendo um site de apoio à decisão do usuário na escolha de uma distribuição Linux, nutrido dinamicamente por IA: **[DistroWiki](https://distrowiki.site)**.
 
+</div>
 
+<br>
 
-# 🔧 Meu Stack  
+<div align="center">
+
+# 🔧 Meu Stack
+
+</div>
+
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring" title="Spring"/></code>
@@ -27,21 +44,41 @@ Atualmente, estou desenvolvendo um site de apoio à decisão do usuário na esco
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 </div>
 
-
-
-
-# 📊 Estatísticas  
+<br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurhenriquelopes&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhenriquelopes&layout=compact&theme=tokyonight"/>
+
+# 📊 Estatísticas
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurhenriquelopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhenriquelopes&layout=compact&theme=tokyonight&langs_count=8"/>
+
 </div>
 
+<br>
 
+<div align="center">
 
+# 🌐 Onde me encontrar
 
-# 🌐 Onde me encontrar  
+<a href="mailto:arthurhenriquelopesf@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/arthur-henrique-lopes/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://arthur-henrique-lopes.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
-📫 Email: **arthurhenriquelopesf@gmail.com**  
-💼 LinkedIn: [Arthur Henrique Lopes](https://www.linkedin.com/in/arthur-henrique-lopes/)  
-🌐 Portfólio: [Meu site](https://arthurhenriquelopes.github.io/arthur-portfolio/)
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Criando soluções digitais inteligentes através de código limpo e abordagens criativas"*
+
+<img src="https://komarev.com/ghpvc/?username=arthurhenriquelopes&color=blueviolet&style=flat-square&label=Visitantes" alt="Profile views"/>
+
+</div>
