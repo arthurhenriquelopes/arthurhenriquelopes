@@ -73,11 +73,10 @@ Atualmente, estou desenvolvendo um site de apoio à decisão do usuário na esco
 
 </div>
 
----
 
 <div align="center">
 
-### 💡 *"Criando soluções digitais inteligentes através de código limpo e abordagens criativas"*
+### *Desde 2024 buscando novas ideias e visões de código*
 
 <img src="https://komarev.com/ghpvc/?username=arthurhenriquelopes&color=blueviolet&style=flat-square&label=Visitantes" alt="Profile views"/>
 
