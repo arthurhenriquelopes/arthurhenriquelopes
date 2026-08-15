@@ -33,16 +33,16 @@ Sou estudante de **Sistemas de Informação pelo Instituto Federal do Maranhão 
 | 📄 [**CV Fácil**](https://github.com/arthurhenriquelopes/cv-facil) | Gerador de currículos online rápido e simples |
 | 🔔 [**GG Deals Price Alert**](https://github.com/arthurhenriquelopes/gg-deals-price-alert) | Alerta de preços de jogos integrado ao GGDeals |
 
-*| Project | Description |*
-*|---------|-------------|*
-*| 🌐 [**DistroWiki**](https://github.com/arthurhenriquelopes/distrowiki) | AI-powered Linux distro decision platform · [distrowiki.site](https://distrowiki.site) |*
-*| 💼 [**Portfolio**](https://github.com/arthurhenriquelopes/arthur-portfolio) | My professional portfolio · [live](https://arthur-henrique-lopes.vercel.app) |*
-*| 🌾 [**SIGAMA Vision**](https://github.com/arthurhenriquelopes/sigama-vision) | AI-driven Agricultural Management System for Maranhão |*
-*| 🤖 [**LLMX**](https://github.com/arthurhenriquelopes/llmx) | AI assistant for Linux via terminal |*
-*| ♟️ [**Chess-SZ**](https://github.com/arthurhenriquelopes/chess-sz) | Free and open source chess game analysis tool |*
-*| 📋 [**Task Manager API**](https://github.com/arthurhenriquelopes/task-manager-api) | FastAPI-powered task management REST API |*
-*| 📄 [**CV Fácil**](https://github.com/arthurhenriquelopes/cv-facil) | Fast and simple online resume generator |*
-*| 🔔 [**GG Deals Price Alert**](https://github.com/arthurhenriquelopes/gg-deals-price-alert) | Game price tracker and alert tool for GGDeals |*
+| Project | Description |
+|---------|-------------|
+| 🌐 [**DistroWiki**](https://github.com/arthurhenriquelopes/distrowiki) | *AI-powered Linux distro decision platform* · [distrowiki.site](https://distrowiki.site) |
+| 💼 [**Portfolio**](https://github.com/arthurhenriquelopes/arthur-portfolio) | *My professional portfolio* · [live](https://arthur-henrique-lopes.vercel.app) |
+| 🌾 [**SIGAMA Vision**](https://github.com/arthurhenriquelopes/sigama-vision) | *AI-driven Agricultural Management System for Maranhão* |
+| 🤖 [**LLMX**](https://github.com/arthurhenriquelopes/llmx) | *AI assistant for Linux via terminal* |
+| ♟️ [**Chess-SZ**](https://github.com/arthurhenriquelopes/chess-sz) | *Free and open source chess game analysis tool* |
+| 📋 [**Task Manager API**](https://github.com/arthurhenriquelopes/task-manager-api) | *FastAPI-powered task management REST API* |
+| 📄 [**CV Fácil**](https://github.com/arthurhenriquelopes/cv-facil) | *Fast and simple online resume generator* |
+| 🔔 [**GG Deals Price Alert**](https://github.com/arthurhenriquelopes/gg-deals-price-alert) | *Game price tracker and alert tool for GGDeals* |
 
 </div>
 
