@@ -49,9 +49,9 @@ Atualmente, estou desenvolvendo um site de apoio à decisão do usuário na esco
 <div align="center">
 
 # 📊 Estatísticas
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurhenriquelopes&show_icons=true&theme=swift&rank_icon=github" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhenriquelopes&layout=compact&theme=swift&langs_count=8"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurhenriquelopes&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=3600&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhenriquelopes&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=3600&hide_border=true"/>
 
 </div>
 
