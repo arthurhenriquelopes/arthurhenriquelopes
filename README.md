@@ -10,9 +10,7 @@
 
 <div align="center">
 
-Sou estudante de **Sistemas de Informação pelo Instituto Federal do Maranhão (IFMA)**, apaixonado por desenvolvimento de sites e aplicações. Adoro criar ferramentas que conciliem com meus hobbies e facilitem meu dia a dia. Amante do novo e entusiasta de xadrez, também não dispenso um bom café para acompanhar meus projetos. Possuo forte ambição em desenvolver soluções para órgãos governamentais com minha stack.
-
-Atualmente, estou desenvolvendo um site de apoio à decisão do usuário na escolha de uma distribuição Linux, nutrido dinamicamente por IA: **[DistroWiki](https://distrowiki.site)**.
+Sou estudante de **Sistemas de Informação pelo Instituto Federal do Maranhão (IFMA)**, apaixonado por desenvolvimento de sites e aplicações. Adoro criar ferramentas que conciliem com meus hobbies e facilitem meu dia a dia. Amante do novo e entusiasta de xadrez, também não dispenso um bom café para acompanhar meus projetos. Possuo forte ambição em desenvolver soluções para órgãos governamentais com minha stack. Atualmente, estou desenvolvendo um site de apoio à decisão do usuário na escolha de uma distribuição Linux, nutrido dinamicamente por IA: **[DistroWiki](https://distrowiki.site)**.
 
 *I'm a Computer Information Systems student at IFMA (Federal Institute of Maranhão), passionate about building web apps and tools that blend with my hobbies. I love chess, good coffee, and crafting solutions for government and public sector challenges with my stack. Currently building [DistroWiki](https://distrowiki.site), an AI-powered Linux distro decision platform.*
 
