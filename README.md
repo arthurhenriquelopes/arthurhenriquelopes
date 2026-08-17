@@ -1,45 +1,28 @@
 <div align="center">
 
-# 👋 Olá, eu sou Arthur Henrique
+```
+  ♞ arthur henrique
+```
 
-### Desenvolvedor Full-Stack | Estudante de Sistemas de Informação
-
-</div>
-
-<br>
-
-<div align="center">
-
-Sou estudante de **Sistemas de Informação pelo Instituto Federal do Maranhão (IFMA)**, apaixonado por desenvolvimento de sites e aplicações. Adoro criar ferramentas que conciliem com meus hobbies e facilitem meu dia a dia. Amante do novo e entusiasta de xadrez, também não dispenso um bom café para acompanhar meus projetos. Possuo forte ambição em desenvolver soluções para órgãos governamentais com minha stack. Atualmente, estou desenvolvendo um site de apoio à decisão do usuário na escolha de uma distribuição Linux, nutrido dinamicamente por IA: **[DistroWiki](https://distrowiki.site)**.
-
-*I'm a Computer Information Systems student at IFMA (Federal Institute of Maranhão), passionate about building web apps and tools that blend with my hobbies. I love chess, good coffee, and crafting solutions for government and public sector challenges with my stack. Currently building [DistroWiki](https://distrowiki.site), an AI-powered Linux distro decision platform.*
+**full-stack dev · são luís, ma**
 
 </div>
 
-<br>
+---
 
-<div align="center">
+Construo coisas que me interessam — se resolve um problema meu, provavelmente resolve o de alguém também.
 
-# 🚀 Projetos em Destaque
+Estudante de Sistemas de Informação no IFMA. Passo a maior parte do tempo entre Java/Spring no back e Vue/TypeScript no front. Quando não tô codando, provavelmente tô jogando xadrez, testando uma distro nova ou fazendo café.
 
-| Projeto | Descrição |
-|---------|-----------|
-| 🌐 [**DistroWiki**](https://github.com/arthurhenriquelopes/distrowiki) | Plataforma para escolha de distro Linux com suporte de IA · [distrowiki.site](https://distrowiki.site) |
-| 💼 [**Portfólio**](https://github.com/arthurhenriquelopes/arthur-portfolio) | Meu portfólio profissional · [ver ao vivo](https://arthur-henrique-lopes.vercel.app) |
-| 🤖 [**LLMX**](https://github.com/arthurhenriquelopes/llmx) | Assistente de IA para Linux via terminal |
-| 📋 [**Task Manager API**](https://github.com/arthurhenriquelopes/task-manager-api) | REST API de gerenciamento de tarefas com FastAPI |
-| 📄 [**CV Fácil**](https://github.com/arthurhenriquelopes/cv-facil) | Gerador de currículos online rápido e simples |
-| 🔔 [**GG Deals Price Alert**](https://github.com/arthurhenriquelopes/gg-deals-price-alert) | Alerta de preços de jogos integrado ao GGDeals |
+#### o que anda rolando
 
-</div>
+- **[DistroWiki](https://distrowiki.site)** — plataforma com IA pra te ajudar a escolher uma distro Linux. meu projeto principal.
+- **[LLMX](https://github.com/arthurhenriquelopes/llmx)** — assistente de IA direto no terminal Linux
+- **[chess-sz](https://github.com/arthurhenriquelopes/chess-sz)** — análise de partidas de xadrez. free, sempre.
+- **[Kaffee Cowork Hub](https://github.com/arthurhenriquelopes/kaffee-cowork-hub)** — café + coworking (sim, juntei duas obsessões)
+- **[GG Deals Price Alert](https://github.com/arthurhenriquelopes/gg-deals-price-alert)** — alerta de preço de jogos, porque pagar caro é opcional
 
-<br>
-
-<div align="center">
-
-# 🔧 Meu Stack
-
-</div>
+#### stack
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
@@ -61,39 +44,10 @@ Sou estudante de **Sistemas de Informação pelo Instituto Federal do Maranhão 
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 </div>
 
-<br>
+---
 
 <div align="center">
 
-# 📊 Estatísticas
-
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=arthurhenriquelopes&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=3600&hide_border=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arthurhenriquelopes&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=3600&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-# 🌐 Onde me encontrar
-
-<a href="mailto:arthurhenriquelopesf@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/arthur-henrique-lopes/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://arthur-henrique-lopes.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
-
-<div align="center">
-
-### *Desde 2024 buscando novas ideias e visões de código*
-
-<img src="https://komarev.com/ghpvc/?username=arthurhenriquelopes&color=blueviolet&style=flat-square&label=Visitantes" alt="Profile views"/>
+[arthurhenrique.tech](https://arthurhenrique.tech) · [linkedin](https://www.linkedin.com/in/arthur-henrique-lopes/) · [arthurhenriquelopesf@gmail.com](mailto:arthurhenriquelopesf@gmail.com)
 
 </div>
